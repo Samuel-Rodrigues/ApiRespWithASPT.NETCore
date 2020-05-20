@@ -12662,11 +12662,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samuelrodrigues\\Documents\\github\\RespWithASPT.NETCore\\RespWithASPTNETCore.csproj",
+      "projectUniqueName": "C:\\Users\\samuelrodrigues\\Documents\\github\\ApiRespWithASPT.NETCore\\RespWithASPTNETCore.csproj",
       "projectName": "RespWithASPTNETCore",
-      "projectPath": "C:\\Users\\samuelrodrigues\\Documents\\github\\RespWithASPT.NETCore\\RespWithASPTNETCore.csproj",
+      "projectPath": "C:\\Users\\samuelrodrigues\\Documents\\github\\ApiRespWithASPT.NETCore\\RespWithASPTNETCore.csproj",
       "packagesPath": "C:\\Users\\samuelrodrigues\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samuelrodrigues\\Documents\\github\\RespWithASPT.NETCore\\obj\\",
+      "outputPath": "C:\\Users\\samuelrodrigues\\Documents\\github\\ApiRespWithASPT.NETCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samuelrodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config",
